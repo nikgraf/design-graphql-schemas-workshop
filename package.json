@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nik Graf",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
