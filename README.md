@@ -1,1 +1,11 @@
-# design-graphql-schemas-workshop
+# Design Graphql Schemas Workshop
+
+## Setup
+
+```
+yarn install # or npm install
+```
+
+## Lessons
+
+Coming soon …
