@@ -29,3 +29,5 @@ products(ids: [ID!]!): [Product]!
 ## Exercise
 
 Revisit your price field design from the previous lesson and see if you would change anything.
+
+Make it flexible to support USD / EUR.
